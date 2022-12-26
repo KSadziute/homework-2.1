@@ -1,0 +1,40 @@
+
+body{
+    background-image: url(background\ img.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: auto;
+    text-align: center;
+}
+
+h2, h3, form, p2{
+    font-family: Lucida Handwriting;
+}
+
+p {
+    font-family: freemono;
+    font-weight: 900;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+button{
+    display: inline-block;
+    background-color: white;
+    color:black;
+    font-family: Lucida Handwriting;
+    border-color: white;
+    border-radius: 50%;
+}
+
+input {
+  background-color: pink;
+  border-color: pink;
+}
+
+::placeholder{
+    font-family: Lucida Handwriting;
+}
